@@ -7,3 +7,7 @@ This program is running on Arduino NANO.
 
 ---
 ![TemperatureDutyArgorithm](images/TemperatureDutyArgorithm.png "TemperatureDutyArgorithm")
+
+---
+![Arduino](images/image01 "Arduino")
+![FAN](images/image02 "FAN")
